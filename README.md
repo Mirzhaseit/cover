@@ -41,18 +41,18 @@ Publish the website in the LocalHost.
         .bookpage {
             width: 400px;
             height: 600px;
-            color: rgb(14, 230, 101);
+            color: rgb(14, 180, 230);
             margin-left: auto;
             margin-right: auto;
             padding: 30px;
             font-family: 'Arial, sans-serif';
-            background-image: url("C:\Users\admin\cover\mirzha\myapp\static\cover.png");
+            background-image:url("bg.jpg");
             background-size: cover;
         }
 
         .insight {
             color: black;
-            top: 120px;
+            top: 200px;
             
         }
 
@@ -64,7 +64,7 @@ Publish the website in the LocalHost.
             display: inline;
             position: relative;
             color: rgb(9, 8, 8);
-            top: 120px;
+            top: 250px;
             font-family: Georgia;
             font-size: medium;
         }
@@ -81,7 +81,7 @@ Publish the website in the LocalHost.
         .id {
             width: 400px;
             position: relative;
-            top: 190px;
+            top: 250px;
         }
 
         .pub {
@@ -89,7 +89,7 @@ Publish the website in the LocalHost.
             font-size: medium;
             font-family: Georgia;
             position: relative;
-            top: 100px;
+            top: 200px;
             left: 305px;
         }
 
@@ -98,7 +98,7 @@ Publish the website in the LocalHost.
             font-size: medium;
             font-family: Verdana;
             position: relative;
-            top: 95px;
+            top: 150px;
         }
 
         .subtitle {
@@ -111,7 +111,7 @@ Publish the website in the LocalHost.
 
         .mypic {
             position: relative;
-            top: 135px;
+            top: 230px;
             left: 260px;
             width: 90px;
             height: 80px;
@@ -129,17 +129,17 @@ Publish the website in the LocalHost.
             <hr style="color: blue;">
         </div>
         <div class="booktitle">
-            <h1 style="font-family: cursive; color: rgb(217, 147, 16);">EMBRACE THE JOURNEY</h1>
+            <h1 style="font-family: cursive; color: rgb(217, 147, 16);">A Developer's Guide</h1>
         </div>
         <div class="subtitle" style="text-align: center;color: red;">
-            Unlock Your True Potential
+            Modern Web Applications
         </div>
         <div class="subtitle" style="color: rgb(193, 172, 133);text-align: center;">
             Top Seller of 2023
         </div>
 
         <div class="mypic">
-            <img src="C:\Users\admin\cover\mirzha\myapp\static\photo.png" width="120" height="100">
+            <img src="photo.png" width="120" height="100">
         </div>
         <div class="id">
             <hr style="color: rgb(65, 221, 9)">
@@ -157,10 +157,12 @@ Publish the website in the LocalHost.
 </body>
 
 </html>
+
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (130).png>)
+![alt text](<Screenshot (133).png>)
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
